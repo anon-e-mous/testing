@@ -46,3 +46,24 @@
     </footer>
    </body>
 </html>
+
+<!--
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Testing Site</title>
+    <link rel="stylesheet" href="assets/stylesheets/main.css">
+  </head>
+  <body>
+    <header>
+      <h1>Github Test Page</h1>
+      <h3>November 26&ndash;27th &mdash; England, UK</h3>
+    </header>
+    <section>
+      <h2>First Test of Github Hosting</h2>
+      <p>Basic Test Web Page</p>
+    </section>
+  </body>
+</html>
+>
